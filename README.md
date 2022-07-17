@@ -4,7 +4,7 @@ Submitted by: **Nour Siwar**
 
 **Hello World** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **1** hour spent in total
+Time spent: **2** hour spent in total
 
 ## Required Features
 
