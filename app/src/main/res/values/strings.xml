@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="Nour_Intro">Hello World! My name is Nour, I am a college student majoring in Computer Science.
+        Currently, I am looking at what field in Computer Science should I follow, and so far,
+        Android Development has been very interesting to me. One final note, I am not a dog person but
+        Corgis are just so adorable ;)!</string>
+    <string name="say_hello">Say Hello</string>
+</resources>
